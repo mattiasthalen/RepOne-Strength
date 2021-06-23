@@ -1,1 +1,1 @@
-# RepOne-Strength
+# RepOne Strength
